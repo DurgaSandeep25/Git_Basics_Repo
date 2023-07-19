@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E21B-45DC
+
+ Directory of C:\Users\Sandeep's\Desktop\All folders\MS_Internship\Git_Basics\DummyProject
+
+19-07-2023  11:27    <DIR>          .
+19-07-2023  11:27    <DIR>          ..
+19-07-2023  11:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  144,826,732,544 bytes free
